@@ -20,9 +20,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ada-jt1725.ada-jt1725&"  />
-</div>
-
-###
