@@ -22,4 +22,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ada-jt1725&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=ada-jt1725&theme=dracula)
 
