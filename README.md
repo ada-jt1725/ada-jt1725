@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ada-jt1725&theme=dracula)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ada-jt1725&theme=dracula&days=1000)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ada-jt1725&theme=dracula)
 
