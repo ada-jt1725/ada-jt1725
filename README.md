@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td>
-<a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" height="330" /></a>
+<a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" height="300" /></a>
 </td>
 <td>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/0-profile-details.svg" height="150" /></a>
