@@ -9,12 +9,9 @@
 
 [![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) <a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy"><img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" alt="Spotify recently played" /></a>
 
-<img src="https://streak-stats.demolab.com?user=ada-jt1725&theme=dracula" height="150" alt="github streak" />
-<a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" alt="Spotify recently played" />
-</a>
+<!-- <img src="https://streak-stats.demolab.com?user=ada-jt1725&theme=dracula" height="150" alt="github streak" /> -->
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ada-jt1725&theme=dracula&days=1000)
 
