@@ -13,8 +13,9 @@
 </td>
 <td>
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/0-profile-details.svg" height="150" /></a> -->
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/3-stats.svg" height="100" /></a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/4-productive-time.svg" height="100" /></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/3-stats.svg" height="150" /></a>
+  <br>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/dracula/4-productive-time.svg" height="150" /></a>
 </td>
 </tr>
 </table>
