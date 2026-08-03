@@ -5,7 +5,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/output/pacman-contribution-graph.svg">
 </picture>
 <br clear="both" />
-<div align="center">
+<div align="center 100%">
 <table>
 <tr>
 <td>
