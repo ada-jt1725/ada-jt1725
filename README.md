@@ -19,7 +19,7 @@
     </td>
     <td>
       <a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy&count=5" alt="Spotify recently played" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" alt="Spotify recently played" />
       </a>
     </td>
   </tr>
