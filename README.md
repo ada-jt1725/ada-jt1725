@@ -18,7 +18,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ada-jt1725&theme=dracula&utcOffset=0" />
     </td>
     <td>
-      <a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy">
+      <a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy](https://spotify-recently-played-readme.vercel.app/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" alt="Spotify recently played" />
       </a>
     </td>
