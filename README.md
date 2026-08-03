@@ -15,7 +15,7 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=ada-jt1725&theme=dracula" height="150" alt="github streak" />
       <br/>
-      ![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+      <img src="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
       <a href="https://open.spotify.com/user/314ar5chufrkkw3n34aapqntmduy](https://spotify-recently-played-readme.vercel.app/">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=314ar5chufrkkw3n34aapqntmduy" alt="Spotify recently played" />
       </a>
