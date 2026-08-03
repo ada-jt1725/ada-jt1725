@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B59B6&width=435&lines=Hello+world!+Welcome+to+Jin's+github!!!;)](https://git.io/typing-svg)
 
-
+![](https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ada-jt1725/ada-jt1725/output/pacman-contribution-graph-dark.svg">
